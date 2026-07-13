@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## 👋 About Me
 
-Hi, I'm **Swapnil Sapkal**, an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights. I enjoy building interactive dashboards, analyzing datasets, and solving business problems using **Excel, SQL, Power BI, and Python**. I'm continuously learning and working on real-world projects to strengthen my analytical and visualization skills.
+Hi, I'm **Swapnil Sapkal**, an **Data Analyst** passionate about transforming raw data into meaningful insights. I enjoy building interactive dashboards, analyzing datasets, and solving business problems using **Excel, SQL, Power BI, and Python**. I'm continuously learning and working on real-world projects to strengthen my analytical and visualization skills.
 
 
 ## 🌐 Socials:
