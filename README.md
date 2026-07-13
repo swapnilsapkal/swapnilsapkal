@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
+Hi 👋, I'm Swapnil Sapkal<br><br>📊 An aspiring Data Analyst with a passion for transforming raw data into meaningful insights that support business decision-making.<br><br>🎓 I am currently pursuing a Bachelor of Technology (B.Tech) in Artificial Intelligence & Data Science, where I am developing strong analytical, problem-solving, and data visualization skills.<br><br>💡 I enjoy working with data by cleaning, analyzing, visualizing, and presenting it through interactive dashboards and reports.<br><br>🚀 My goal is to build impactful data-driven solutions while continuously improving my expertise in Data Analytics, Business Intelligence, and Business Reporting.<br><br>📈 I am actively seeking Data Analyst Internship and Freelance opportunities to apply my technical skills to real-world business problems.<br>• Building end-to-end Data Analytics projects using real-world datasets.<br><br>• Creating interactive Power BI dashboards for Sales, HR, Finance, and Customer Analytics.<br><br>• Performing data cleaning, transformation, and exploratory data analysis (EDA) using Python.<br><br>• Writing SQL queries to extract, filter, join, aggregate, and analyze business data.<br><br>• Developing Excel dashboards using Pivot Tables, Charts, Power Query, and advanced formulas.<br><br>• Building portfolio projects to showcase analytical and visualization skills.<br><br>• Improving business reporting and KPI dashboard development techniques.<br>• Building end-to-end Data Analytics projects using real-world datasets.<br><br>• Creating interactive Power BI dashboards for Sales, HR, Finance, and Customer Analytics.<br><br>• Performing data cleaning, transformation, and exploratory data analysis (EDA) using Python.<br><br>• Writing SQL queries to extract, filter, join, aggregate, and analyze business data.<br><br>• Developing Excel dashboards using Pivot Tables, Charts, Power Query, and advanced formulas.<br><br>• Building portfolio projects to showcase analytical and visualization skills.<br><br>• Improving business reporting and KPI dashboard development techniques.<br>• Data Analytics Projects<br><br>• Business Intelligence (BI) Dashboards<br><br>• Power BI Dashboard Development<br><br>• SQL Database Analysis<br><br>• Python Data Analysis Projects<br><br>• Data Cleaning & Data Transformation<br><br>• Open Source Data Analytics Projects<br><br>• Dashboard Automation Projects<br><br>• Excel Reporting Solutions<br>• Advanced Power BI (DAX & Data Modeling)<br><br>• Advanced SQL Query Optimization<br><br>• Data Engineering Fundamentals<br><br>• ETL Pipeline Development<br><br>• Real-world Business Analytics Projects<br><br>• Freelancing in Data Analytics<br><br>• Dashboard Design Best Practices<br><br>• Data Storytelling & Business Insights<br>• Microsoft Power BI<br><br>• Advanced SQL<br><br>• Python for Data Analysis<br><br>• Pandas<br><br>• NumPy<br><br>• Matplotlib<br><br>• Data Visualization Techniques<br><br>• Statistical Analysis<br><br>• Business Intelligence<br><br>• Data Storytelling<br><br>• Dashboard Design Principles<br>• Microsoft Excel<br><br>• Data Cleaning<br><br>• Data Analysis<br><br>• SQL Queries<br><br>• Power BI<br><br>• Python (Pandas & NumPy)<br><br>• Exploratory Data Analysis (EDA)<br><br>• Dashboard Development<br><br>• KPI Reporting<br><br>• Business Intelligence<br><br>• Data Visualization<br>I enjoy transforming messy datasets into clean, interactive dashboards that help businesses make smarter, data-driven decisions.<br>📊 Data Analytics<br><br>📈 Data Visualization<br><br>📉 Business Intelligence<br><br>📋 Dashboard Development<br><br>🗃 SQL<br><br>📑 Microsoft Excel<br><br>📊 Microsoft Power BI<br><br>🐍 Python<br><br>🐼 Pandas<br><br>🔢 NumPy<br><br>📉 Matplotlib<br><br>🧹 Data Cleaning<br><br>📊 Exploratory Data Analysis (EDA)<br><br>📈 KPI Reporting<br><br>📑 Business Reporting<br><br>🔍 Problem Solving<br>To begin my career as a Data Analyst by applying analytical thinking, data visualization, SQL, Excel, Python, and Power BI skills to solve real-world business challenges while continuously learning and growing in the field of Data Analytics.
 
-<!--
-**swapnilsapkal/swapnilsapkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swapnil-sapkal-315a2b290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swapnilsapkal2004@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=swapnilsapkal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=swapnilsapkal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=swapnilsapkal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=swapnilsapkal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=swapnilsapkal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=swapnilsapkal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
